@@ -1,0 +1,7 @@
+﻿  Assembling LibAsm.asm...
+  pch.cpp
+  dllmain.cpp
+  Source.cpp
+  Generating Code...
+     Creating library C:\Users\plach\Desktop\JA2\Brightness\x64\Debug\ASM_PROC.lib and object C:\Users\plach\Desktop\JA2\Brightness\x64\Debug\ASM_PROC.exp
+  ASM_PROC.vcxproj -> C:\Users\plach\Desktop\JA2\Brightness\x64\Debug\ASM_PROC.dll

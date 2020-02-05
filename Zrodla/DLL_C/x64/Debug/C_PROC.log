@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Source.cpp
+C:\Users\plach\Desktop\JA2\Brightness\C_PROC\Source.cpp(7,1): warning C4273: 'LightenC': inconsistent dll linkage
+C:\Users\plach\Desktop\JA2\Brightness\C_PROC\Header.h(8,26): message : see previous definition of 'LightenC'
+C:\Users\plach\Desktop\JA2\Brightness\C_PROC\Source.cpp(16,1): warning C4273: 'DimC': inconsistent dll linkage
+  Generating Code...
+C:\Users\plach\Desktop\JA2\Brightness\C_PROC\Header.h(9,26): message : see previous definition of 'DimC'
+     Creating library C:\Users\plach\Desktop\JA2\Brightness\x64\Debug\C_PROC.lib and object C:\Users\plach\Desktop\JA2\Brightness\x64\Debug\C_PROC.exp
+  C_PROC.vcxproj -> C:\Users\plach\Desktop\JA2\Brightness\x64\Debug\C_PROC.dll
